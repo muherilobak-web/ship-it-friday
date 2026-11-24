@@ -1,0 +1,1 @@
+{"description":"One-line Ship It Friday commit message entry for make.fun","license":"MIT","main":"main.ts","name":"ship-it-friday","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
